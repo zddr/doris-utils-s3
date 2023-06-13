@@ -1,3 +1,6 @@
+**/.idea/
+**/cmake-build-debug-zdtest/
+cmake-build-debug
 # Prerequisites
 *.d
 
